@@ -1,18 +1,32 @@
-## Getting Started
+<aside>
+⚙ **Título: Productos de tecnología**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
 
-## Folder Structure
+**Tiempo de ejecución**: 70 minutos
 
-The workspace contains two folders by default, where:
+**Sesión:** “M2 - Sesión 6:   Conjuntos, mapas, enumeraciones y excepciones”
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Nivel de dificultad:** ★★★☆☆
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![download.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03aeed31-03e2-46c3-8299-4087fcd648e4/5913be56-e42d-4743-94c6-e94f84f4241a/download.png)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Especificaciones:** La empresa  MasterTech necesita un programa en Java para gestionar un almacén de productos de tecnología.
 
-## Dependency Management
+Se requiere conocer el nombre del producto, su precio, numero de referencia, cantidad disponible y categoría.  Respecto a las categorías, el sistema debe mantener un mapa predefinido que incluirá las opciones disponibles para asignar a cada producto. Estas categorías son:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 1 - Computadores
+- 2 - Celulares
+- 3 - Electrodomésticos
+- 4 - TV
+- 5 - Accesorios
+- 6 - Videojuegos
+- 7 - Audio y video
+
+Además, debe permitir la adición, disminución o eliminación de productos del inventario y añadir y eliminar categorías de productos, también, permitir la visualización del inventario de acuerdo a la categoría y las categorías existentes.
+
+El programa no debe permitir agregar productos de igual numero de referencia y  tampoco no debe permitir agregar categorías ya existentes.
+
+Finalmente, el sistema debe manejar los errores de forma adecuada y proporcionar mensajes claros en caso de error.
+
+</aside>
