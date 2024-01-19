@@ -9,8 +9,6 @@
 
 **Nivel de dificultad:** ★★★☆☆
 
-![download.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03aeed31-03e2-46c3-8299-4087fcd648e4/5913be56-e42d-4743-94c6-e94f84f4241a/download.png)
-
 **Especificaciones:** La empresa  MasterTech necesita un programa en Java para gestionar un almacén de productos de tecnología.
 
 Se requiere conocer el nombre del producto, su precio, numero de referencia, cantidad disponible y categoría.  Respecto a las categorías, el sistema debe mantener un mapa predefinido que incluirá las opciones disponibles para asignar a cada producto. Estas categorías son:
